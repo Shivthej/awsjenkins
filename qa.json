@@ -9,14 +9,14 @@
   },
    {
     "ParameterKey": "KeyName",
-    "ParameterValue": "GOPIKRISH"
+    "ParameterValue": "cdpractice"
    },
   {
      "ParameterKey": "SubnetId",
-    "ParameterValue": "subnet-979b76ed"
+    "ParameterValue": "subnet-f36140a8"
   },
   {
     "ParameterKey": "InstanceSecurityGroup",
-    "ParameterValue": "sg-495b6323"
+    "ParameterValue": "sg-02bd874e344ed0e6a"
   }
 ]
